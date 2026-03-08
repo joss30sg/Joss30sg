@@ -58,7 +58,7 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9** y **Angular 
 
 <div align="center">
 
-![José García's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Josep Sagastegui García's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true)
 
