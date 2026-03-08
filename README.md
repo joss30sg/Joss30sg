@@ -75,13 +75,14 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9** y **Angular 
 | **🛒 Carrito de Compras** | E-Commerce Full-Stack con JWT auth, CRUD, Testing | ASP.NET Core 9, Angular 20, xUnit, 5000+ LOC | [Ver →](https://github.com/joss30sg/APiCarritoDeCompras) |
 | **📋 CRUD de Pedidos** | Sistema completo de gestión de pedidos | C#, .NET Core, SQL | [Ver →](https://github.com/joss30sg/Crud-de-Pedidos) |
 | **✅ API Gestión Tareas** | API REST moderno para gestión de tareas | ASP.NET Core, REST API | [Ver →](https://github.com/joss30sg/ApiGestionTarea) |
+| **📦 CRUD Inventario** | Sistema de control y gestión de inventario | C#, .NET Core, SQL Server | [Ver →](https://github.com/joss30sg/Crud-Inventario) |
 
 ### 📌 Cómo Fijar Estos Proyectos en tu Perfil
 
 1. Ve a: https://github.com/joss30sg
 2. Haz clic en **"Customize your pins"**
-3. Selecciona los 3 proyectos de arriba
-4. ¡Listo! Aparecerán destacados
+3. Selecciona tus 6 mejores proyectos (máximo pineable)
+4. ¡Listo! Aparecerán destacados en tu perfil
 
 ---
 
