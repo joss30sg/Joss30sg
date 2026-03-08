@@ -41,7 +41,7 @@ Postman • Azure • AWS • Linux
 
 ### 📊 Estadísticas
 
-![José García's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical)
+![Joseph Sagastegui García's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical)
 
 ---
 
