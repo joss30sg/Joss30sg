@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Desarrollador Full-Stack** | **ASP.NET Core 9 & Angular 20+** | **Clean Architecture**
+**Desarrollador Full-Stack** | **ASP.NET Core 9 & Angular 20+ y React 19** | **Clean Architecture**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-sagastegui-garc%C3%ADa-95737869?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/joss30sg)
@@ -74,7 +74,7 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9** y **Angular 
 |----------|-------------|-------------|------|
 | **🛒 Carrito de Compras** | E-Commerce Full-Stack con JWT auth, CRUD, Testing | ASP.NET Core 9, Angular 20, xUnit, 5000+ LOC | [Ver →](https://github.com/joss30sg/APiCarritoDeCompras) |
 | **📋 CRUD de Pedidos** | Sistema completo de gestión de pedidos | C#, .NET Core, SQL | [Ver →](https://github.com/joss30sg/Crud-de-Pedidos) |
-| **✅ API Gestión Tareas** | API REST moderno para gestión de tareas | ASP.NET Core, REST API | [Ver →](https://github.com/joss30sg/ApiGestionTarea) |
+| **✅ API Gestión Tareas** | API REST moderno para gestión de tareas | ASP.NET Core, REST API, React CLI | [Ver →](https://github.com/joss30sg/ApiGestionTarea) |
 | **📦 CRUD Inventario** | Sistema de control y gestión de inventario | C#, .NET Core, SQL Server | [Ver →](https://github.com/joss30sg/Crud-Inventario) |
 
 ### 📌 Cómo Fijar Estos Proyectos en tu Perfil
