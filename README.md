@@ -1,4 +1,4 @@
-# 👋 Hola, soy José García
+# 👋 Hola, soy Joseph Sagastegui García
 
 <div align="center">
 
@@ -163,7 +163,7 @@ entender y mantener sin necesidad de hacerte preguntas"
 | Plataforma | Link |
 |-----------|------|
 | **GitHub** | [@joss30sg](https://github.com/joss30sg) |
-| **Email** | joss30sg@gmail.com |
+| **Email** | jpsagastegui@hotmail.com |
 | **LinkedIn** | [joseph-sagastegui-garcía](https://www.linkedin.com/in/joseph-sagastegui-garc%C3%ADa-95737869?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 
 </div>
