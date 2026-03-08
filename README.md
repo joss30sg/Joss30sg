@@ -1,4 +1,4 @@
-# Hola, soy José García 👋
+# Hola, soy Joseph Sagastegui García 👋
 
 **Desarrollador Full-Stack** | **ASP.NET Core & Angular** | **Clean Architecture**  
 *Creando soluciones escalables, testadas y de calidad*
