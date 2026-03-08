@@ -1,7 +1,16 @@
-# Hola, soy José García 👋
+# 👋 Hola, soy José García
 
-**Desarrollador Full-Stack** | **ASP.NET Core & Angular** | **Clean Architecture**  
-*Creando soluciones escalables, testadas y de calidad*
+<div align="center">
+
+**Desarrollador Full-Stack** | **ASP.NET Core 9 & Angular 20+** | **Clean Architecture**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/joss30sg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joss30sg@github.com)
+
+**Creando soluciones escalables, testadas y de calidad**
+
+</div>
 
 ---
 
@@ -19,29 +28,60 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9** y **Angular 
 
 ---
 
-## 💻 Stack Tecnológico
+## 🛠️ Tecnologías
 
 ### Backend
-```
-C# • .NET Core 9 • ASP.NET Core • Entity Framework Core
-JWT • MediatR • xUnit • Moq • FluentAssertions
-```
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat)
 
 ### Frontend
-```
-Angular 20+ • TypeScript • RxJS • Observables
-Bootstrap • CSS3 • Componentes Standalone
-```
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### DevOps & Tools
-```
-Git • GitHub • Docker • Visual Studio Code
-Postman • Azure • AWS • Linux
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-### 📊 Estadísticas
+---
 
-![José García's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![José García's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joss30sg&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📌 Proyectos Destacados (STAR ME! ⭐)
+
+| Proyecto | Descripción | Tecnologías | Link |
+|----------|-------------|-------------|------|
+| **🛒 Carrito de Compras** | E-Commerce Full-Stack con JWT auth, CRUD, Testing | ASP.NET Core 9, Angular 20, xUnit, 5000+ LOC | [Ver →](https://github.com/joss30sg/APiCarritoDeCompras) |
+| **📋 CRUD de Pedidos** | Sistema completo de gestión de pedidos | C#, .NET Core, SQL | [Ver →](https://github.com/joss30sg/Crud-de-Pedidos) |
+| **✅ API Gestión Tareas** | API REST moderno para gestión de tareas | ASP.NET Core, REST API | [Ver →](https://github.com/joss30sg/ApiGestionTarea) |
+
+### 📌 Cómo Fijar Estos Proyectos en tu Perfil
+
+1. Ve a: https://github.com/joss30sg
+2. Haz clic en **"Customize your pins"**
+3. Selecciona los 3 proyectos de arriba
+4. ¡Listo! Aparecerán destacados
 
 ---
 
@@ -51,148 +91,99 @@ Postman • Azure • AWS • Linux
 - ✅ **Testing** - Pruebas unitarias, integración, E2E  
 - ✅ **Performance** - Optimización y escalabilidad
 - ✅ **Documentación** - README, comentarios, Swagger
-- ✅ **Aprendizaje Continuo** - Siempre mejorando
-
----
-
-## � Proyectos Destacados
-
-### 1️⃣ Carrito de Compras - Full Stack ⭐
-
-**e-Commerce completo** con autenticación JWT, gestión de carrito, historial de órdenes
-
-🔗 **[APiCarritoDeCompras](https://github.com/joss30sg/APiCarritoDeCompras)**
-
-**Tecnologías:**  
-`ASP.NET Core 9` `Angular 20` `JWT` `Entity Framework` `xUnit`
-
-**Características:**
-- ✅ Autenticación JWT completa
-- ✅ CRUD de carrito con validaciones
-- ✅ Historial de órdenes
-- ✅ API REST con Swagger
-- ✅ Testing (20+ tests, >75% cobertura)
-- ✅ Diseño responsive
-
-**📊 Estadísticas:**
-
-| Métrica | Valor |
-|---------|-------|
-| Líneas de Código | 5000+ |
-| Tests | 20+ |
-| Componentes | 10+ |
-| Endpoints | 15+ |
-
-**⚡ Quick Start (5 minutos):**
-
-```bash
-git clone https://github.com/joss30sg/APiCarritoDeCompras.git
-
-# Terminal 1
-cd ShoppingCartApi && dotnet run
-
-# Terminal 2
-cd Frontend/ShoppingCartUI && npm start
-
-# Abrir http://localhost:4200
-# Usuario: testuser | Contraseña: Password123!
-```
-
----
-
-### 2️⃣ CRUD de Pedidos
-
-Sistema de gestión de pedidos con interfaz intuitiva
-
-🔗 **[Crud-de-Pedidos](https://github.com/joss30sg/Crud-de-Pedidos)**
-
----
-
-### 3️⃣ API Gestión de Tareas
-
-API REST para gestión de tareas con arquitectura moderna
-
-🔗 **[ApiGestionTarea](https://github.com/joss30sg/ApiGestionTarea)**
+- ✅ **DevOps** - Git, Docker, CI/CD
 
 ---
 
 ## 🌱 Aprendiendo Actualmente
 
 - 🔄 **Microservicios** - Docker, Kubernetes
-- 📊 **Clean Architecture** - DDD, Event Sourcing
+- 📊 **DDD** - Domain Driven Design
 - 🚀 **Cloud** - Azure, AWS
-- 🔐 **Security** - OAuth2, 2FA
+- 🔐 **OAuth2** - Seguridad avanzada
 - 📈 **Performance** - Caching, Async/Await
 
 ---
 
-## 📈 Mis Especialidades
+## 💼 Mis Especialidades
 
 ### Desarrollo Backend
-- Diseño de APIs REST escalables
-- Implementación de patrones (Repository, Factory, CQRS)
-- Autenticación y Autorización (JWT, OAuth2)
-- Testing y Cobertura de Código
-- Optimización de Bases de Datos
+✅ Diseño de APIs REST escalables  
+✅ Patrones: Repository, Factory, CQRS  
+✅ Autenticación JWT & OAuth2  
+✅ Testing y cobertura de código  
+✅ Optimización de BD
 
 ### Desarrollo Frontend
-- Componentes Angular reutilizables
-- Manejo de estado con RxJS
-- Interceptores y Guards
-- Diseño responsive
-- Buena experiencia de usuario (UX)
+✅ Componentes Angular reutilizables  
+✅ RxJS, Observables & Reactive Programming  
+✅ Interceptores y Guards  
+✅ Diseño responsive mobile-first  
+✅ UX/UI optimizado
 
-### DevOps & Infraestructura
-- Git y GitHub
-- CI/CD (básico)
-- Docker (básico)
-- Cloud (Azure, AWS)
-
----
-
-## 🤝 Conectemos
-
-- 💼 **GitHub:** [@joss30sg](https://github.com/joss30sg)
-- 📧 **Email:** joss30sg@github.com
-- 🔗 **LinkedIn:** (Próximamente)
+### DevOps & Cloud
+✅ Git y GitHub Workflow  
+✅ Docker (dockerización)  
+✅ CI/CD Pipeline  
+✅ Azure / AWS Basics  
+✅ Linux Server Management
 
 ---
 
-## 🎓 Mi Filosofía de Desarrollo
+## 🎓 Mi Filosofía de Código
 
 ```
 "El mejor código es aquel que otros desarrolladores pueden
 entender y mantener sin necesidad de hacerte preguntas"
 ```
 
-- **Legible** > Inteligente
-- **Simple** > Complejo
-- **Testado** > No testado
-- **Documentado** > Adivinar
+**Principios:**
+- Legibilidad > Inteligencia
+- Simplicidad > Complejidad
+- Testado > No testado
+- Documentado > Adivinanza
 
 ---
 
 ## 💡 Lo Que Me Motiva
 
 ✨ Resolver problemas complejos con soluciones elegantes  
-✨ Aprender nuevas tecnologías  
-✨ Compartir conocimiento con otros desarrolladores  
-✨ Crear software que impacta positivamente  
-✨ Mejorar constantemente
+✨ Aprender nuevas herramientas y technologías  
+✨ Compartir conocimiento con otros devs  
+✨ Crear software que impacte positivamente  
+✨ Mejorar continuamente mi craft
 
 ---
 
-## 📄 Licencia
+## 📞 Contacto
 
-Todos mis proyectos están bajo licencia **MIT** ✓
+<div align="center">
+
+| Plataforma | Link |
+|-----------|------|
+| **GitHub** | [@joss30sg](https://github.com/joss30sg) |
+| **Email** | joss30sg@gmail.com |
+| **LinkedIn** | (Próximamente) |
+
+</div>
 
 ---
+
+<div align="center">
 
 ## ⭐ Si Te Gusta Mi Trabajo
 
-Considera darme una estrella ⭐ en mis repositorios.  
+Considera dar una **estrella** ⭐ a mis repositorios  
 ¡Motiva mucho continuar creando proyectos de calidad!
+
+### 🚀 Visita Mi Perfil
+
+**[github.com/joss30sg](https://github.com/joss30sg)**
 
 ---
 
-**Última actualización:** Marzo de 2026 | [Visita mi perfil](https://github.com/joss30sg)
+![Profile Views](https://komarev.com/ghpvc/?username=joss30sg&color=blueviolet)
+
+**Última actualización:** Marzo 2026 | Construido con ❤️
+
+</div>
