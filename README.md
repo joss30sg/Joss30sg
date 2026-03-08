@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Desarrollador Full-Stack** | **ASP.NET Core 9 & Angular 20+** | **Clean Architecture**
+**Desarrollador Full-Stack** | **ASP.NET Core 9 & Angular 20+ & React 18+** | **Clean Architecture**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-sagastegui-garc%C3%ADa-95737869?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/joss30sg)
@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9** y **Angular 20+**, con enfoque en:
+Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 20+** y **React 18+**, con enfoque en:
 
 - 🏗️ **Arquitectura Limpia** - SOLID, Design Patterns, DDD
 - 🧪 **Testing** - Cobertura completa, TDD
@@ -40,6 +40,7 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9** y **Angular 
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
