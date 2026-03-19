@@ -79,6 +79,7 @@ git push origin main
 - Tu Perfil: https://github.com/joss30sg
 - Repositorio Portafolio: https://github.com/joss30sg/joss30sg
 - Carrito Proyecto: https://github.com/joss30sg/APiCarritoDeCompras
+- Gestión Inventarios: https://github.com/joss30sg/GestionInventarios
 
 ---
 
