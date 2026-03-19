@@ -61,11 +61,11 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 2
 
 <div align="center">
 
-![Josep Sagastegui García's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joss30sg&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joss30sg&theme=radical&hide_border=true&cache_seconds=1800)
 
 </div>
 
