@@ -34,9 +34,11 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 2
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat)
 
 ### Frontend
@@ -75,11 +77,12 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 2
 
 | Proyecto | Descripción | Tecnologías | Link |
 |----------|-------------|-------------|------|
-| **🛒 Carrito de Compras** | E-Commerce Full-Stack con JWT auth, CRUD, Testing | ASP.NET Core 9, Angular 20, xUnit, 5000+ LOC | [Ver →](https://github.com/joss30sg/APiCarritoDeCompras) |
-| **📋 CRUD de Pedidos** | Sistema completo de gestión de pedidos | C#, .NET Core, SQL | [Ver →](https://github.com/joss30sg/Crud-de-Pedidos) |
-| **✅ API Gestión Tareas** | API REST moderno para gestión de tareas | ASP.NET Core, REST API, React CLI | [Ver →](https://github.com/joss30sg/ApiGestionTarea) |
-| **📦 CRUD Inventario** | Sistema de control y gestión de inventario | C#, .NET Core, SQL Server | [Ver →](https://github.com/joss30sg/Crud-Inventario) |
-| **🏭 Gestión de Inventarios** | Sistema integral con auth JWT, roles, Docker, OWASP | .NET 8, React 18, SQL Server, Docker | [Ver →](https://github.com/joss30sg/GestionInventarios) |
+| **🛒 Carrito de Compras** | E-Commerce Full-Stack con JWT auth, CRUD, Dapper, Testing | ASP.NET Core 9, Angular 20, xUnit, Dapper | [Ver →](https://github.com/joss30sg/APiCarritoDeCompras) |
+| **🏭 Gestión de Inventarios** | Sistema integral con JWT, roles, Docker, OWASP, Testing Coverage | .NET 8, React 18, SQL Server, Docker | [Ver →](https://github.com/joss30sg/GestionInventarios) |
+| **📋 CRUD de Pedidos** | Gestión de pedidos con JWT, roles, FluentValidation, Serilog | ASP.NET Core 8, React 18, EF Core, JWT | [Ver →](https://github.com/joss30sg/Crud-de-Pedidos) |
+| **✅ API Gestión Tareas** | API REST Full-Stack con 61 tests, OWASP 7/10, Edge Cases | .NET 8, React Native Web, Dapper, SQL Server | [Ver →](https://github.com/joss30sg/ApiGestionTarea) |
+| **📦 CRUD Inventario** | CRUD MVC con Stored Procedures, FluentValidation, Serilog | ASP.NET Core 8 MVC, EF Core, SQL Server, Bootstrap | [Ver →](https://github.com/joss30sg/Crud-Inventario) |
+| **🏥 Citas Médicas AWS** | Backend Serverless para citas médicas (Perú y Chile) | Node.js, TypeScript, AWS Lambda, DynamoDB, Aurora | [Ver →](https://github.com/joss30sg/BackendAWSMedical) |
 
 ### 📌 Cómo Fijar Estos Proyectos en tu Perfil
 
@@ -97,6 +100,7 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 2
 - ✅ **Performance** - Optimización y escalabilidad
 - ✅ **Documentación** - README, comentarios, Swagger
 - ✅ **DevOps** - Git, Docker, CI/CD
+- ✅ **Cloud** - AWS Lambda, DynamoDB, Aurora Serverless
 
 ---
 
