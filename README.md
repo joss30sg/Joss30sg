@@ -63,11 +63,13 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 2
 
 <div align="center">
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=900)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&locale=es)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=900)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=es)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=joss30sg&theme=radical&hide_border=true&cache_seconds=900)
+![GitHub Streak](https://streak-stats.demolab.com/?user=joss30sg&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joss30sg&theme=redical&hide_border=true&area=true)](https://github.com/joss30sg)
 
 </div>
 
