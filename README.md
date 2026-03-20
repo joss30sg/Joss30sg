@@ -61,7 +61,7 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 2
 
 <div align="center">
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&locale=es)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&locale=es)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=es)
 
