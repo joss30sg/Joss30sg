@@ -62,16 +62,10 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 2
 <div align="center">
 
 <a href="https://github.com/joss30sg">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&locale=es&include_all_commits=true&card_width=400" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&locale=es&include_all_commits=true" alt="Joseph's GitHub Stats" width="49%" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&locale=es&include_all_commits=true" alt="Joseph's GitHub Stats" width="49%" />
 </a>
 <a href="https://github.com/joss30sg">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=es&card_width=400" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=es" alt="Top Languages" width="49%" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=es" alt="Top Languages" width="49%" />
 </a>
 
 <br/>
