@@ -71,7 +71,7 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 2
 <br/>
 
 <a href="https://github.com/joss30sg">
-  <img src="https://streak-stats.demolab.com/?user=joss30sg&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&v=20260329" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=joss30sg&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=&v=2026032901" alt="GitHub Streak" width="60%" />
 </a>
 
 <br/>
