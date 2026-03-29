@@ -173,7 +173,23 @@ entender y mantener sin necesidad de hacerte preguntas"
 
 ---
 
-## 📞 Contacto
+## � Últimas Actualizaciones
+
+| Fecha | Cambio | Tipo |
+|-------|--------|------|
+| Mar 2026 | GitHub Stats responsive para web y móvil | ✨ feat |
+| Mar 2026 | Instancia sigma-five estable para GitHub Stats | 🔧 fix |
+| Mar 2026 | Activity Graph y top 10 lenguajes en estadísticas | ✨ feat |
+| Mar 2026 | Streak Stats con servicio actualizado (demolab) | 🔧 fix |
+| Mar 2026 | Agregado proyecto Gestión de Inventarios | 📝 docs |
+| Mar 2026 | Badge de Dapper en tecnologías Backend | ✨ feat |
+| Mar 2026 | Badge de AWS en DevOps & Tools | ✨ feat |
+| Mar 2026 | React 18+ como especialidad en perfil | ✨ feat |
+| Mar 2026 | LinkedIn en badges de contacto | ✨ feat |
+
+---
+
+## �📞 Contacto
 
 <div align="center">
 
