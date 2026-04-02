@@ -62,22 +62,22 @@ Soy un desarrollador Full-Stack especializado en **ASP.NET Core 9**, **Angular 2
 <div align="center">
 
 <a href="https://github.com/joss30sg">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&locale=es&count_private=true&v=1774914037" alt="Joseph's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joss30sg&show_icons=true&theme=radical&hide_border=true&locale=es&count_private=true&v=1775088000" alt="Joseph's GitHub Stats" width="49%" />
 </a>
 <a href="https://github.com/joss30sg">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=es&v=1774914037" alt="Top Languages" width="49%" />
-</a>
-
-<br/>
-
-<a href="https://github.com/joss30sg">
-  <img src="https://streak-stats.demolab.com/?user=joss30sg&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&v=1774914037" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joss30sg&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=es&v=1775088000" alt="Top Languages" width="49%" />
 </a>
 
 <br/>
 
 <a href="https://github.com/joss30sg">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joss30sg&theme=redical&hide_border=true&area=true&v=1774914037" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=joss30sg&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&v=1775088000" alt="GitHub Streak" width="60%" />
+</a>
+
+<br/>
+
+<a href="https://github.com/joss30sg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joss30sg&theme=redical&hide_border=true&area=true&v=1775088000" alt="GitHub Activity Graph" width="95%" />
 </a>
 
 </div>
